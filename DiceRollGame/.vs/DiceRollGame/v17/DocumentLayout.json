@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jp-di\\Documents\\GitHub\\MyCsharpMasterclassProjects\\DiceRollGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E793263-C7A0-44CC-BBBA-6E14E56C4E39}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\jp-di\\documents\\github\\mycsharpmasterclassprojects\\dicerollgame\\dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E793263-C7A0-44CC-BBBA-6E14E56C4E39}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E793263-C7A0-44CC-BBBA-6E14E56C4E39}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\jp-di\\documents\\github\\mycsharpmasterclassprojects\\dicerollgame\\dicerollgame\\game\\guessinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E793263-C7A0-44CC-BBBA-6E14E56C4E39}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\game\\guessinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuessingGame.cs",
+              "DocumentMoniker": "C:\\Users\\jp-di\\Documents\\GitHub\\MyCsharpMasterclassProjects\\DiceRollGame\\DiceRollGame\\Game\\GuessingGame.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\Game\\GuessingGame.cs",
+              "ToolTip": "C:\\Users\\jp-di\\Documents\\GitHub\\MyCsharpMasterclassProjects\\DiceRollGame\\DiceRollGame\\Game\\GuessingGame.cs",
+              "RelativeToolTip": "DiceRollGame\\Game\\GuessingGame.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:38:55.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jp-di\\Documents\\GitHub\\MyCsharpMasterclassProjects\\DiceRollGame\\DiceRollGame\\Program.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\Program.cs",
+              "ToolTip": "C:\\Users\\jp-di\\Documents\\GitHub\\MyCsharpMasterclassProjects\\DiceRollGame\\DiceRollGame\\Program.cs",
+              "RelativeToolTip": "DiceRollGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:50:23.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
